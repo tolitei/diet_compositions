@@ -115,6 +115,7 @@ WHERE
 ```
 
 ### POWER BI Workflow
+1. Dashboard example
 ![Report_example](/images/Report_example.png)
 ![Detailed_Analysis_example](/images/Detailed_Analysis_example.png)
 1. **Column Adjustments: Handling Null Values:**
