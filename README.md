@@ -43,6 +43,8 @@ I hope you find this project both informative and entertaining. If you have any 
 |Power BI	     |Visualizing the data via interactive dashboards|
 |GitHub	         |Hosting the project documentation and version control|
 
+![Detailed_Analysis_example](/images/Detailed_Analysis_example.png)
+![Report_example](/images/Report_example.png)
 
 ## Workflow
 ### SQL Workflow
