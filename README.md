@@ -10,6 +10,12 @@ The goal of this project was to create a comprehensive and insightful report tha
 I hope you find this project both informative and entertaining. If you have any feedback, suggestion or questions feel free to reach out.
 
 ## Table of contents
+- [Datasets](#datasets)
+- [Methodology](#methodology)
+- [Tools](#tools)
+- [Workflow](#workflow)
+- [Final Report](#final-report)
+- [Other repos/notebooks that inspired me](#other-reposnotebooks-that-inspired-me)
 
 ## Datasets
 
@@ -22,10 +28,10 @@ I hope you find this project both informative and entertaining. If you have any 
 ## Methodology
 
 #### 1. Objective and Questions to answer:
-   - What are the countries that consume the most food?
-   - Countries with the largest increase/decrease in protein and vegetable consumption.
-   - What are the countries I should invest in for my protein/vegetable products?
-   - Overview by country and continent.
+   - Which countries have the highest protein consumption?
+   - Which countries have experienced the largest increase or decrease in protein average kcal available?
+   - Which countries represent the best investment opportunities for protein products?
+   - A comprehensive overview of protein consumption by continent/subregion.
 
 #### 2. Steps to complete the project:
 - Analyze the data in Excel.
@@ -151,7 +157,9 @@ WHERE
     - Ensured that only countries with complete geographic and dietary data were retained.
     - **Note**: This integration was performed mid-project by appending a CSV file to the SQL Server database. For better efficiency, this step should ideally have been implemented earlier in SQL using table joins to consolidate the data into a single table.
 
-## Benefits of Doing This Project
+## Final Report
+The Final Report can be found in the [Final_Report.pdf](Final_Report.pdf) file.
+Please note that the main objective of this report was to focus specifically on protein supply, rather than all types of food supply.
 
 ## Other repos/notebooks that inspired me
 1. **top_uk_youtubers_2024 project** ([Github page](https://github.com/sdw-online/top_uk_youtubers_2024) | [Youtube video](https://youtu.be/mm_sN-Elplg?si=A4HcEOLUA1ECfuHc))
