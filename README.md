@@ -124,6 +124,7 @@ WHERE
 1. Dashboard example
 ![Report_example](/images/Report_example.png)
 ![Detailed_Analysis_example](/images/Detailed_Analysis_example.png)
+
 1. **Column Adjustments: Handling Null Values:**
     - MISCELLANEOUS_GROUP: Deleted (data lacks specificity).
     - ALCOHOLIC_BEVERAGES: Only Saudi Arabia and UAE had null values. Substituted nulls with 0 - Assumed 0 due to religious context).
