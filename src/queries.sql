@@ -116,7 +116,7 @@ FROM
     dietary_composition
 WHERE 
 	Code is NOT Null
-	AND Year >= 2010
+	AND Year >= 2015
 
 /*
 # VIEW diet_composition_cleaned
