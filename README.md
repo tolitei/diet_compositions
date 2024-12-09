@@ -43,8 +43,6 @@ I hope you find this project both informative and entertaining. If you have any 
 |Power BI	     |Visualizing the data via interactive dashboards|
 |GitHub	         |Hosting the project documentation and version control|
 
-![Detailed_Analysis_example](/images/Detailed_Analysis_example.png)
-![Report_example](/images/Report_example.png)
 
 ## Workflow
 ### SQL Workflow
@@ -117,6 +115,8 @@ WHERE
 ```
 
 ### POWER BI Workflow
+![Report_example](/images/Report_example.png)
+![Detailed_Analysis_example](/images/Detailed_Analysis_example.png)
 1. **Column Adjustments: Handling Null Values:**
     - MISCELLANEOUS_GROUP: Deleted (data lacks specificity).
     - ALCOHOLIC_BEVERAGES: Only Saudi Arabia and UAE had null values. Substituted nulls with 0 - Assumed 0 due to religious context).
